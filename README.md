@@ -6,11 +6,11 @@
 
 
 ## Basic Details
-### Team Name: The Judgmental Devs
+### Team Name: Fight Club
 
 
 ### Team Members
-- Team Lead: lovinit7 - Providence College
+- Team Lead: Lovin Jiju Thomas - Providence College
 
 ### Project Description
 A completely normal and beautifully polished BMI calculator that takes your results far too seriously. It calculates your BMI accurately and then proceeds to dramatically judge you using absurd roasts, meme sounds, and special Easter eggs.
